@@ -11,6 +11,6 @@ ngrok generates a public URL to share but url changes once we refresh our projec
 
 step to clone:
 
-. open google collab and write this command and don't forget to press shift+enter --> !git clone https://github.com/Rohan6395/Image_Caption_Generator/
+. open google collab and write this command and don't forget to press shift+enter --> !git clone https://github.com/Rohan6395/Image_Caption_Generatior/
 
 ANOTHER METHOD .go to ImageText.ipynb file of this repo. .Select Preview option. .click on "Open in collab" option at the top.
